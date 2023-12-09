@@ -13,6 +13,8 @@ Download the parkinsons.data file and save it in this location:
 
 My Drive/Colab Notebooks
 
+I have also uploaded the dataset file in the github repository for quick reference.
+
 After that you are good to go.
 
 
